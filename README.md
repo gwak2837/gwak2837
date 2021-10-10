@@ -1,8 +1,4 @@
-## Taeuk Gwak
-
-🧑‍🎓 Chung-Ang University. Bachelor of Computer Science and Engineering
-
-🧑‍💻 Frontend Developer, Backend Developer, Cloud Engineer
+🧑‍💻 I'm interested in Frontend Developer, Backend Developer, Cloud Engineer
 
 #### Language
 
@@ -32,9 +28,6 @@
 <a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/Cloud Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP Badge"></a>
 <a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/Compute Engine-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP Badge"></a>
 <a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/Cloud Storage-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP Badge"></a>
-<a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=Amazon AWS
-&logoColor=white" alt="GCP Badge"></a>
-<a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=Amazon AWS
-&logoColor=white" alt="GCP Badge"></a>
-<a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=Amazon AWS
-&logoColor=white" alt="GCP Badge"></a>
+<a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge"></a>
+<a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS Badge"></a>
+<a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/S3-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS Badge"></a>
