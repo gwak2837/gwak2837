@@ -24,15 +24,16 @@
 <a href="https://www.docker.com/" rel="nofollow"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" ></a>
 <a href="https://graphql.org/" rel="nofollow"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL Badge"></a>
 <a href="https://www.apollographql.com/docs/apollo-server/" rel="nofollow"><img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" alt="GraphQL Badge"></a>
-<a href="https://www.postgresql.org/" rel="nofollow"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis Badge"></a>
+<a href="https://redis.io/" rel="nofollow"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis Badge"></a>
 <a href="https://www.postgresql.org/" rel="nofollow"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge"></a>
 <a href="https://bitcoin.org/en/" rel="nofollow"><img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=Bitcoin&logoColor=white" alt="PostgreSQL Badge"></a>
 
 #### Cloud
 
+<a href="https://vercel.com/" rel="nofollow"><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel Badge"></a>
 <a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/Cloud Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP Badge"></a>
 <a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/Compute Engine-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP Badge"></a>
 <a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/Cloud Storage-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP Badge"></a>
-<a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge"></a>
-<a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS Badge"></a>
-<a href="https://cloud.google.com/gcp/" rel="nofollow"><img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white" alt="AWS Badge"></a>
+<a href="https://aws.amazon.com/ko/" rel="nofollow"><img src="https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge"></a>
+<a href="https://aws.amazon.com/ko/" rel="nofollow"><img src="https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS Badge"></a>
+<a href="https://aws.amazon.com/ko/" rel="nofollow"><img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white" alt="AWS Badge"></a>
