@@ -23,10 +23,11 @@
 <a href="https://nodejs.org/en/" rel="nofollow"><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js Badge" data-canonical-src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" ></a>
 <a href="https://www.docker.com/" rel="nofollow"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" ></a>
 <a href="https://graphql.org/" rel="nofollow"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL Badge"></a>
-<a href="https://www.apollographql.com/docs/apollo-server/" rel="nofollow"><img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" alt="GraphQL Badge"></a>
+<a href="https://www.apollographql.com/docs/apollo-server/" rel="nofollow"><img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" alt="Apollo Badge"></a>
+<a href="https://jwt.io/" rel="nofollow"><img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white" alt="JWT Badge"></a>
 <a href="https://redis.io/" rel="nofollow"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis Badge"></a>
 <a href="https://www.postgresql.org/" rel="nofollow"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge"></a>
-<a href="https://bitcoin.org/en/" rel="nofollow"><img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=Bitcoin&logoColor=white" alt="PostgreSQL Badge"></a>
+<a href="https://bitcoin.org/en/" rel="nofollow"><img src="https://img.shields.io/badge/Bitcoin-222?style=flat-square&logo=Bitcoin&logoColor=white" alt="PostgreSQL Badge"></a>
 
 #### Cloud
 
@@ -37,3 +38,11 @@
 <a href="https://aws.amazon.com/ko/" rel="nofollow"><img src="https://img.shields.io/badge/RDS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge"></a>
 <a href="https://aws.amazon.com/ko/" rel="nofollow"><img src="https://img.shields.io/badge/EC2-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" alt="AWS Badge"></a>
 <a href="https://aws.amazon.com/ko/" rel="nofollow"><img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Amazon-S3&logoColor=white" alt="AWS Badge"></a>
+
+#### Developer Tool
+
+<a href="https://webpack.js.org/" rel="nofollow"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack Badge"></a>
+<a href="https://eslint.org/" rel="nofollow"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint Badge"></a>
+<a href="https://prettier.io/" rel="nofollow"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier Badge"></a>
+<a href="" rel="nofollow"><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest Badge"></a>
+<a href="" rel="nofollow"><img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" alt="Nodemon Badge"></a>
