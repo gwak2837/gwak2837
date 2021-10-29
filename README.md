@@ -7,6 +7,7 @@
 <a href="https://javascript.info/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/ES2020-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript Badge"></a>
 <a href="https://www.typescriptlang.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/TypeScript-235A97?style=flat-square&logo=Typescript&logoColor=white" alt="TypeScript Badge"></a>
 <a href="https://www.python.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python Badge"></a>
+<a href="https://www.shellscript.sh/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Shell Script-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white" alt="Shell Script Badge"></a>
 
 #### Frontend
 
