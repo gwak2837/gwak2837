@@ -43,8 +43,10 @@
 
 #### Developer Tool
 
+<a href="https://yarnpkg.com/getting-started/install" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Yarn berry-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn Berry Badge"></a>
 <a href="https://webpack.js.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack Badge"></a>
 <a href="https://eslint.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint Badge"></a>
 <a href="https://prettier.io/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier Badge"></a>
 <a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest Badge"></a>
+<a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Slack Bot-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Nodemon Badge"></a>
 <a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" alt="Nodemon Badge"></a>
