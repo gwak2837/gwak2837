@@ -6,6 +6,7 @@
 
 <a href="https://javascript.info/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/ES2020-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript Badge"></a>
 <a href="https://www.typescriptlang.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/TypeScript-235A97?style=flat-square&logo=Typescript&logoColor=white" alt="TypeScript Badge"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3 Badge"></a>
 <a href="https://www.python.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python Badge"></a>
 <a href="https://www.shellscript.sh/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Shell Script-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white" alt="Shell Script Badge"></a>
 
@@ -15,9 +16,9 @@
 <a href="https://reactjs.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Badge" ></a>
 <a href="https://styled-components.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="styled Badge"></a>
 <a href="https://web.dev/progressive-web-apps/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white" alt="PWA Badge"></a>
-<a href="https://analytics.google.com/analytics/web/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/GA-E37400?style=flat-square&logo=Google Analytics&logoColor=white" alt="styled Badge"></a>
 <a href="https://www.ncloud.com/product/applicationService/maps" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Naver Map-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Map Badge"></a>
 <a href="https://ant.design/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=ant-design&logoColor=white" alt="Ant Design Badge"></a>
+<a href="https://analytics.google.com/analytics/web/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/GA-E37400?style=flat-square&logo=Google Analytics&logoColor=white" alt="styled Badge"></a>
 
 #### Backend
 
@@ -28,7 +29,8 @@
 <a href="https://jwt.io/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white" alt="JWT Badge"></a>
 <a href="https://www.postgresql.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge"></a>
 <a href="https://redis.io/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis Badge"></a>
-<a href="https://bitcoin.org/en/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-222?style=flat-square&logo=Bitcoin&logoColor=white" alt="PostgreSQL Badge"></a>
+<a href="https://socket.io/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white" alt="WebSocket Badge"></a>
+<a href="https://bitcoin.org/en/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-222?style=flat-square&logo=Bitcoin&logoColor=white" alt="Bitcoin Badge"></a>
 
 #### Cloud
 
