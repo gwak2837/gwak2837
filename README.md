@@ -30,7 +30,7 @@
 <a href="https://www.postgresql.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" alt="PostgreSQL Badge"></a>
 <a href="https://redis.io/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis Badge"></a>
 <a href="https://socket.io/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white" alt="WebSocket Badge"></a>
-<a href="https://bitcoin.org/en/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-222?style=flat-square&logo=Bitcoin&logoColor=white" alt="Bitcoin Badge"></a>
+<a href="https://en.wikipedia.org/wiki/Proof_of_work" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Blockchain PoW-222?style=flat-square&logo=Bitcoin&logoColor=white" alt="Bitcoin Badge"></a>
 
 #### Cloud
 
