@@ -19,6 +19,9 @@
 <a href="https://www.ncloud.com/product/applicationService/maps" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Naver Map-03C75A?style=flat-square&logo=naver&logoColor=white" alt="Naver Map Badge"></a>
 <a href="https://ant.design/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=ant-design&logoColor=white" alt="Ant Design Badge"></a>
 <a href="https://analytics.google.com/analytics/web/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/GA-E37400?style=flat-square&logo=Google Analytics&logoColor=white" alt="styled Badge"></a>
+<br/>
+<a href="https://analytics.google.com/analytics/web/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black" alt="styled Badge"></a>
+<a href="https://analytics.google.com/analytics/web/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=black" alt="styled Badge"></a>
 
 #### Backend
 
