@@ -4,7 +4,7 @@
 
 #### Language
 
-<a href="https://javascript.info/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/ES2020-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript Badge"></a>
+<a href="https://javascript.info/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/ES2022-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript Badge"></a>
 <a href="https://www.typescriptlang.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/TypeScript-235A97?style=flat-square&logo=Typescript&logoColor=white" alt="TypeScript Badge"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3 Badge"></a>
 <a href="https://www.python.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python Badge"></a>
@@ -26,7 +26,9 @@
 #### Backend
 
 <a href="https://graphql.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL Badge"></a>
-<a href="https://www.apollographql.com/docs/apollo-server/" rel="noreferrer"><img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" alt="Apollo Badge"></a>
+<a href="https://www.fastify.io/" rel="noreferrer"><img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=Fastify&logoColor=white" alt="Apollo Badge"></a>
+<a href="https://expressjs.com/" rel="noreferrer"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Fastify Badge"></a>
+<a href="https://www.apollographql.com/docs/apollo-server/" rel="noreferrer"><img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" alt="Express Badge"></a>
 <a href="https://www.docker.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" ></a>
 <a href="https://nodejs.org/en/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js Badge" data-canonical-src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" ></a>
 <a href="https://jwt.io/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white" alt="JWT Badge"></a>
@@ -50,9 +52,9 @@
 
 <a href="https://yarnpkg.com/getting-started/install" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Yarn berry-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn Berry Badge"></a>
 <a href="https://esbuild.github.io/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/esbuild-FFCF00?style=flat-square&logo=esbuild&logoColor=black" alt="esbuild Badge"></a>
-<a href="https://webpack.js.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack Badge"></a>
 <a href="https://eslint.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint Badge"></a>
 <a href="https://prettier.io/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier Badge"></a>
+<a href="https://webpack.js.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack Badge"></a>
 <a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest Badge"></a>
 <a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Slack Bot-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Nodemon Badge"></a>
 <a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=nodemon&logoColor=white" alt="Nodemon Badge"></a>
