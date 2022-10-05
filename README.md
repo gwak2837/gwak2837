@@ -17,6 +17,7 @@
 <a href="https://styled-components.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="styled Badge"></a>
 <a href="https://web.dev/progressive-web-apps/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white" alt="PWA Badge"></a>
 <a href="https://tanstack.com/query/v4/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="React Query Badge"></a>
+<a href="https://recoiljs.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Recoil-3578e5?style=flat-square&logo=recoil&logoColor=white" alt="Recoil Badge"></a>
 <a href="https://react-hook-form.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/React Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white" alt="styled Badge"></a>
 <a href="https://analytics.google.com/analytics/web/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/GA-E37400?style=flat-square&logo=Google Analytics&logoColor=white" alt="GA Badge"></a>
 <br/>
@@ -71,4 +72,8 @@
 <a href="https://prettier.io/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black" alt="Prettier Badge"></a>
 <a href="https://webpack.js.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack Badge"></a>
 <a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest Badge"></a>
-<a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Slack Bot-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Nodemon Badge"></a>
+<br/>
+<a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Slack Bot-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack Badge"></a>
+<a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Badge"></a>
+<a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Notion Badge"></a>
+<a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira Badge"></a>
