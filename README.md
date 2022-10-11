@@ -21,26 +21,26 @@
 <a href="https://react-hook-form.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/React Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white" alt="styled Badge"></a>
 <a href="https://analytics.google.com/analytics/web/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/GA-E37400?style=flat-square&logo=Google Analytics&logoColor=white" alt="GA Badge"></a>
 <br/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/EventSource" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Event Source-000000?style=flat-square&logo=http2&logoColor=white" alt="Event Source Badge"></a>
-<a href="https://en.wikipedia.org/wiki/HTTP/2" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/HTTP2-000000?style=flat-square&logo=http2&logoColor=white" alt="HTTP2 Badge"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/EventSource" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Event Source-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Event Source Badge"></a>
+<a href="https://en.wikipedia.org/wiki/HTTP/2" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/HTTP2-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="HTTP2 Badge"></a>
 <a href="https://en.wikipedia.org/wiki/WebRTC" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC Badge"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Push_API" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Web Push-000000?style=flat-square&logo=web-push&logoColor=white" alt="WebRTC Badge"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Push_API" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Web Push-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Web Push Badge"></a>
 <br/>
 <a href="https://www.figma.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=black" alt="Figma Badge"></a>
 <a href="https://www.adobe.com/products/xd.html" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=black" alt="Adobe XD Badge"></a>
 
 #### Backend (Server)
 
-<a href="https://graphql.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL Badge"></a>
 <a href="https://www.fastify.io/" rel="noreferrer"><img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=Fastify&logoColor=white" alt="Apollo Badge"></a>
+<a href="https://en.wikipedia.org/wiki/HTTP/3" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/HTTP3-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="HTTP3 Badge"></a>
+<a href="https://en.wikipedia.org/wiki/HTTP/2_Server_Push" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Server Push-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Server Push Badge"></a>
+<a href="https://nodejs.org/en/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js Badge" data-canonical-src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" ></a>
+<a href="https://www.docker.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" ></a>
+<br/>
 <a href="https://expressjs.com/" rel="noreferrer"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Fastify Badge"></a>
 <a href="https://www.apollographql.com/docs/apollo-server/" rel="noreferrer"><img src="https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" alt="Express Badge"></a>
-<a href="https://www.docker.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Badge" ></a>
-<a href="https://nodejs.org/en/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js Badge" data-canonical-src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" ></a>
-<br/>
+<a href="https://graphql.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL Badge"></a>
 <a href="https://socket.io/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white" alt="WebSocket Badge"></a>
-<a href="https://en.wikipedia.org/wiki/HTTP/3" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/HTTP3-000000?style=flat-square&logo=http3&logoColor=white" alt="HTTP3 Badge"></a>
-<a href="https://en.wikipedia.org/wiki/HTTP/2_Server_Push" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Server Push-000000?style=flat-square&logo=server-push&logoColor=white" alt="Server Push Badge"></a>
 
 #### Backend (Database)
 
