@@ -2,6 +2,7 @@
 
 🧑‍💻 I'm interested in Frontend Developer, Backend Developer, Cloud Engineer
 
+<div>
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
   <img src="./1.jpeg" />
   <div>
@@ -11,13 +12,15 @@
     <div>🏠 서울시 강동구 천호동</div>
     <div>🪖 ROTC 2019년 1월 ~ 2020년 8월</div>
     <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;카투사 2022년 3월 ~ 2023년 7월</div>
-    <div>📱 010-9203-2837</div>
-    <div>✉️ gwak2837@kakao.com</div>
-    <div>🖥 github.com/rmfpdlxmtidl</div>
-    <div>🌐 velog.io/@gwak2837</div>
-    <div>📷 instagram.com/gwak2837</div>
+    <div>📱 <a href="tel:010-9203-2837">010-9203-2837</a></div>
+    <div>✉️ <a href="mailto:gwak2837@kakao.com">gwak2837@kakao.com</a></div>
+    <div>🖥 <a href="https://github.com/rmfpdlxmtidl">github.com/rmfpdlxmtidl</a></div>
+    <div>🌐 <a href="https://velog.io/@gwak2837">velog.io/@gwak2837</a></div>
+    <div>📷 <a href="https://www.instagram.com/gwak2837/">instagram.com/gwak2837</a></div>
     <div></div>
+
   </div>
+</div>
 </div>
 
 #### Language
