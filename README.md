@@ -2,6 +2,24 @@
 
 🧑‍💻 I'm interested in Frontend Developer, Backend Developer, Cloud Engineer
 
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;">
+  <img src="./1.jpeg" />
+  <div>
+    <div>🧑 곽태욱 (Taeuk Gwak, 郭泰昱)</div>
+    <div>🎉 1998년 4월 12일 (남)</div>
+    <div>🎓 중앙대학교 컴퓨터공학부 학사</div>
+    <div>🏠 서울시 강동구 천호동</div>
+    <div>🪖 ROTC 2019년 1월 ~ 2020년 8월</div>
+    <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;카투사 2022년 3월 ~ 2023년 7월</div>
+    <div>📱 010-9203-2837</div>
+    <div>✉️ gwak2837@kakao.com</div>
+    <div>🖥 github.com/rmfpdlxmtidl</div>
+    <div>🌐 velog.io/@gwak2837</div>
+    <div>📷 instagram.com/gwak2837</div>
+    <div></div>
+  </div>
+</div>
+
 #### Language
 
 <a href="https://javascript.info/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/ES2022-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript Badge"></a>
@@ -14,12 +32,15 @@
 
 <a href="https://nextjs.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js Badge" ></a>
 <a href="https://reactjs.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Badge" ></a>
-<a href="https://styled-components.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="styled Badge"></a>
 <a href="https://web.dev/progressive-web-apps/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=PWA&logoColor=white" alt="PWA Badge"></a>
 <a href="https://tanstack.com/query/v4/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="React Query Badge"></a>
 <a href="https://recoiljs.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Recoil-3578e5?style=flat-square&logo=recoil&logoColor=white" alt="Recoil Badge"></a>
 <a href="https://react-hook-form.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/React Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white" alt="styled Badge"></a>
 <a href="https://analytics.google.com/analytics/web/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/GA-E37400?style=flat-square&logo=Google Analytics&logoColor=white" alt="GA Badge"></a>
+<br/>
+<a href="https://tailwindcss.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="tailwind Badge"></a>
+<a href="https://styled-components.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="styled Badge"></a>
+<a href="https://emotion.sh/docs/introduction" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Emotion-C43BAD?style=flat-square&logo=&logoColor=white" alt="emotion Badge"></a>
 <br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/API/EventSource" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Event Source-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Event Source Badge"></a>
 <a href="https://en.wikipedia.org/wiki/HTTP/2" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/HTTP2-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="HTTP2 Badge"></a>
@@ -73,6 +94,7 @@
 <a href="https://webpack.js.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack Badge"></a>
 <a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest Badge"></a>
 <br/>
+<a href="https://code.visualstudio.com/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode Badge"></a>
 <a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Slack Bot-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack Badge"></a>
 <a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Badge"></a>
 <a href="" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Notion Badge"></a>
